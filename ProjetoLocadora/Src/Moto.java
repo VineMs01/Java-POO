@@ -21,6 +21,6 @@ public class Moto extends Veiculo {
 
     @Override
     public String toString(){
-        return super.exibirDados() + "  " + cilindradas ;
+        return super.exibirDados() + "  " + cilindradas + " cc";
     }
 }
